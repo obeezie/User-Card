@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  max-width: 750px;
+  width: 70%;
+  height: 350px;
+  background-color: white;
+  border-style: solid;
+  border-color: rgb(86, 16, 16);
+  margin: 100px;
+}
+
+.accent {
+  height: 100px;
+  background-color: teal;
+}
+
+.accent img {
+  width: 100px;
+  position: relative;
+  top: 50px;
+  left: 40px;
+}
+
+.profile {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: 50px;
+  left: 40px;
+  font-family: cursive;
+}
+
+.location {
+  position: relative;
+  top: 8px;
+}
+
+.location img {
+  position: relative;
+  top: 2px;
+  height: 20px;
+}
+
+.bio {
+  position: relative;
+  top: 25px;
+}
+
+.bio p {
+  font-size: 15px;
+}
+
+.edit {
+  position: relative;
+  top: 35px;
+}
+
+.edit img {
+  position: relative;
+  height: 20px;
+  top: 4px;
+  margin-right: 5px;
+}
